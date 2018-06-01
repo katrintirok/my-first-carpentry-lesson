@@ -24,6 +24,6 @@ keypoints:
 > > ## solution
 > > this is the solution
 > {: .solution}
-{: .exercise}
+{: .challenge}
 
 {% include links.md %}
