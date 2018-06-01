@@ -1,13 +1,19 @@
 ---
 title: "Introduction"
-teaching: 0
-exercises: 0
+teaching: 60
+exercises: 30
 questions:
-- "Key question"
+- "first question"
+- "second question"
 objectives:
-- "First objective."
+- "no objective."
 keypoints:
 - "First key point."
+- "another key point"
 ---
 
+# some content
+apples
+bananas
+oranges
 {% include links.md %}
